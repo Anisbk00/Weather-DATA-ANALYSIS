@@ -3,7 +3,10 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-weather=pd.read_csv("C:/Users/anisb/Desktop/Weather Data Analysis/data/weatherHistory_cleaned.csv")
+@st.cache
+def load():
+    return pd.read_csv("C:/Users/anisb/Desktop/Weather Data Analysis/data/weatherHistory_cleaned.csv")
+weather=load()
 
 #ui
 st.title("Weather Dashboard 🌦️")
