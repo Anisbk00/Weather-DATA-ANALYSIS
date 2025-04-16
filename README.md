@@ -39,3 +39,12 @@
 ![Correlation Heatmap](outputs/correlation_heatmap.png)
 ![Seasonal Decomposition](outputs/seasonal_decomposition.png)
 ![Seasonal Box Plot](outputs/seasonal_boxplot.png)
+
+
+## **Deployment**  
+Explore the interactive dashboard here: [Live Demo](https://your-streamlit-app-url.streamlit.app/)  
+
+### **Run Locally**  
+1. Install dependencies:  
+   ```bash  
+   pip install -r requirements.txt  
