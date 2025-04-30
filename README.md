@@ -42,7 +42,7 @@
 
 
 ## **Deployment**  
-Explore the interactive dashboard here: [Live Demo](https://your-streamlit-app-url.streamlit.app/)  
+Explore the interactive dashboard here: [Live Demo]([https://your-streamlit-app-url.streamlit.app](https://anisbk00-weather-data-analysis-scriptsapp-f5io2t.streamlit.app/)/)  
 
 ### **Run Locally**  
 1. Install dependencies:  
